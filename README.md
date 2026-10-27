@@ -79,5 +79,5 @@ Each department has its own 2960-24TT switch, at least one PC, and a printer. Th
 
 ## How to Open
 
-Open `campus-network.pkt` with Cisco Packet Tracer.
+Open `network_design.pkt` with Cisco Packet Tracer.
 "# University-network-design-using-RIP-routing-protocol" 
