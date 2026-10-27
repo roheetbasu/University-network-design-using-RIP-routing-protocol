@@ -71,7 +71,7 @@ Each department has its own 2960-24TT switch, at least one PC, and a printer. Th
 ```
 .
 ├── README.md
-├── campus-network.pkt
+├── network_design.pkt
 └── images/
     ├── topology.png
     └── ping-test.png
